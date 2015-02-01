@@ -1,1 +1,2 @@
-# eeg_rand
+eeg_sparse_code
+===============
